@@ -1,0 +1,17 @@
+[
+  {
+    "id": "identificador-unico-libro-1",
+    "title": "Título del Libro Uno",
+    "author": "Autor del Libro Uno",
+    "epubUrl": "ruta/relativa/al/libro1.epub",
+    "coverImageUrl": "ruta/relativa/a/la/portada1.jpg"
+  },
+  {
+    "id": "identificador-unico-libro-2",
+    "title": "Título del Libro Dos",
+    "author": "Autor del Libro Dos",
+    "epubUrl": "epubs/libro_dos_aventuras.epub",
+    "coverImageUrl": "covers/portada_libro_dos.png"
+  }
+  // ... más libros
+]
