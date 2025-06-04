@@ -4,7 +4,7 @@
     "title": "Título del Libro Uno",
     "author": "Autor del Libro Uno",
     "epubUrl": "ruta/relativa/al/libro1.epub",
-    "coverImageUrl": "ruta/relativa/a/la/portada1.jpg"
+    "coverImageUrl": "https://github.com/Leandrobarriospintos-90/LectorEpubOnline-v8-test-2/blob/e97757586526e948a9442e2886f31be96eab7700/corver/esas_cosas.jpg"
   },
   {
     "id": "identificador-unico-libro-2",
