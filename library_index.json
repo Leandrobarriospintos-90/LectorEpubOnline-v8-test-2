@@ -3,7 +3,7 @@
     "id": "identificador-unico-libro-1",
     "title": "Título del Libro Uno",
     "author": "Autor del Libro Uno",
-    "epubUrl": "ruta/relativa/al/libro1.epub",
+    "epubUrl": "https://github.com/Leandrobarriospintos-90/LectorEpubOnline-v8-test-2/blob/0ea9fb60470f23c80359c0966d02b6792ceaa83b/epub/esas.epub",
     "coverImageUrl": "https://github.com/Leandrobarriospintos-90/LectorEpubOnline-v8-test-2/blob/e97757586526e948a9442e2886f31be96eab7700/corver/esas_cosas.jpg"
   },
   {
@@ -13,5 +13,4 @@
     "epubUrl": "epubs/libro_dos_aventuras.epub",
     "coverImageUrl": "covers/portada_libro_dos.png"
   }
-  // ... más libros
 ]
